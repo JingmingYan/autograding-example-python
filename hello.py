@@ -1,4 +1,4 @@
-# NAME:         FIXME
+# NAME:         Jingming Yan
 # ASSIGNMENT:   Project 1
 
 # Example
